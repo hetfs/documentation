@@ -1,0 +1,162 @@
+When it comes to working with files formatted with [Markdown](https://opensource.com/article/19/9/introduction-markdown), command-line tools rule the roost. They're light, fast, powerful, and flexible, and most of them follow the Unix philosophy of doing one thing well.
+
+Take a look at four utilities that can help you work more efficiently with Markdown files at the command line.
+
+[Charm · GitHub](https://github.com/charmbracelet)
+
+We make the command line glamorous.
+
+[Identifying Trends in Your Repos’ Issues…with AI!](https://charm.sh/blog/gh-mods-pop/)
+
+ Identifying Trends in Your Repos’ Issues…with AI!
+
+[GitHub - charmbracelet/glow: Render markdown on the CLI, with pizzazz! 💅🏻](https://github.com/charmbracelet/glow)
+
+Glow is a terminal based markdown reader designed from the ground up to bring out the beauty—and power—of the CLI.
+
+Use it to discover markdown files, read documentation directly on the command line. Glow will find local markdown files in subdirectories or a local Git repository.
+
+[GitHub - charmbracelet/mods: AI on the command line](https://github.com/charmbracelet/mods)
+
+Mods works by reading standard in and prefacing it with a prompt supplied in the `mods` arguments. It sends the input text to an LLM and prints out the result, optionally asking the LLM to format the response as Markdown. This gives you a way to "question" the output of a command. Mods will also work on standard in or an argument supplied prompt individually.
+
+[GitHub - charmbracelet/freeze: Generate images of code and terminal output 📸](https://github.com/charmbracelet/freeze)
+
+Freeze generates PNGs, SVGs, and WebPs of code and terminal output alike.
+
+[GitHub - visit1985/mdp: A command-line based markdown presentation tool.](https://github.com/visit1985/mdp)
+
+ mdp - A command-line based markdown presentation tool.
+
+[mdless: Better Markdown in Terminal - BrettTerpstra.com](https://brettterpstra.com/2015/08/21/mdless-better-markdown-in-terminal/)
+
+ mdless: Better Markdown
+
+[GitHub - mrchimp/mdr: Terminal markdown reader with color.](https://github.com/mrchimp/mdr)
+
+[Markdown Viewers for the Linux Command Line - Adamsdesk](https://www.adamsdesk.com/posts/linux-markdown-viewers/)
+
+ Markdown Viewers for the Linux Command Line
+
+---
+
+Coders often use tools called *linters* to check for correct syntax. You can do the same for Markdown using the [Markdown lint tool](https://github.com/markdownlint/markdownlint).
+
+When you run this tool over a file that's formatted with Markdown, it checks the formatting against a [set of rules](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md). Those rules govern the structure of a document, including the order of header levels, incorrect indentation and spacing, problems with code blocks, the existence of HTML in a file, and more
+
+about [mdmerge](https://github.com/JeNeSuisPasDave/MarkdownTools)
+
+mdmerge, as you've probably guessed from its name, combines two or more Markdown files into a single file. You don't need to type the names of the files at the command line. Instead, you can add them to a file called **book.txt** and use that as an input file for mdmerge.
+
+A master document lets you manage large documents, such as a book with many chapters. The master document can be seen as a container for individual LibreOffice Writer files. The individual files are called subdocuments.
+
+[Master Documents and Subdocuments](https://help.libreoffice.org/6.2/en-US/text/swriter/guide/globaldoc.html)
+
+[bashblog](https://github.com/cfenollosa/bashblog) isn't strictly a tool for working with Markdown. It takes files that are formatted using Markdown and uses them to build a simple blog or website. Think of bashblog as a [static site generator](https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators), but one that doesn't have a bunch of fragile dependencies. Just about everything you need is in a shell script weighing just under 50KB.
+
+- [Convert files at the command line with Pandoc](https://opensource.com/article/18/9/intro-pandoc)
+- [Turn your book into a website and an ePub using Pandoc](https://opensource.com/article/18/10/book-to-website-epub-using-pandoc)
+- [How to use Pandoc to produce a research paper](https://opensource.com/article/18/9/pandoc-research-paper)
+- [Convert Markdown files to word processor docs using Pandoc](https://opensource.com/article/19/5/convert-markdown-to-word-pandoc)
+
+# open source Markdown editors
+
+[Ghostwriter](https://wereturtle.github.io/ghostwriter/) ranks in the top three of the dedicated Markdown editors I've used or tried. And I've used or tried a few!
+
+What sets Ghostwriter apart from other Markdown editors is its range of export options. You can choose the Markdown processor you want to use, including [Sundown](https://github.com/vmg/sundown), [Pandoc](https://pandoc.org/), or [Discount](https://www.pell.portland.or.us/~orc/Code/discount/). With a couple of clicks, you can convert what you're writing to HTML5, ODT, EPUB, LaTeX, PDF, or a Word document.
+
+---
+
+If you like your Markdown editors simple, you'll like [Abricotine](http://abricotine.brrd.fr/). But don't let its simplicity fool you; Abricotine packs quite a punch.
+
+Like Abricotine, [Mark Text](https://marktext.github.io/website/) is a simple Markdown editor that might surprise you. It has a few features you might not expect and does quite a good job of handling documents formatted with Markdown
+
+[Remarkable](https://remarkableapp.github.io/) lies somewhere between Ghostwriter and Abricotine or Mark Text. It has that two-paned interface, but with a slightly more modern look. And it has a few useful features.
+
+The first thing you notice about Remarkable is its [Material Design](https://en.wikipedia.org/wiki/Material_Design)-inspired look and feel. It's not for everyone, and I'll be honest: It took me a little while to get used to it. Once you do, it's easy to use.
+
+[Convert files at the command line with Pandoc | Opensource.com](https://opensource.com/article/18/9/intro-pandoc)
+
+[Turn your book into a website and an ePub using Pandoc | Opensource.com](https://opensource.com/article/18/10/book-to-website-epub-using-pandoc)
+
+[How to use Pandoc to produce a research paper | Opensource.com](https://opensource.com/article/18/9/pandoc-research-paper)
+
+[Convert Markdown files to word processor docs using pandoc | Opensource.com](https://opensource.com/article/19/5/convert-markdown-to-word-pandoc)
+
+A few good Markdown viewers that work well in the terminal include:
+
+### 1. **Glow**
+
+- **Description**: Glow is a terminal-based markdown reader with a stylish interface and syntax highlighting.
+
+- **Features**:
+  
+  - Markdown rendering in the terminal.
+  - Search, copy, and save Markdown files.
+  - Integrates with GitHub and GitLab.
+
+- **Installation**:
+  
+  ```bash
+  # For Linux or macOS
+  brew install glow
+  
+  # For Windows (using scoop)
+  scoop install glow
+  ```
+
+### 2. **mdcat**
+
+- **Description**: A simple and fast Markdown viewer for the terminal.
+
+- **Features**:
+  
+  - Syntax highlighting and support for images.
+  - Compatible with links, tables, and other Markdown features.
+
+- **Installation**:
+  
+  ```bash
+  # On macOS or Linux
+  brew install mdcat
+  
+  # On Linux (with Cargo)
+  cargo install mdcat
+  ```
+
+### 3. **bat (with Markdown syntax)**
+
+- **Description**: A `cat` clone with syntax highlighting and Git integration.
+
+- **Features**:
+  
+  - Syntax highlighting for Markdown (among other file types).
+  - Can be used to view Markdown files in the terminal.
+
+- **Installation**:
+  
+  ```bash
+  # On macOS or Linux
+  brew install bat
+  
+  # On Windows (with scoop)
+  scoop install bat
+  ```
+
+### 4. **grip (Markdown preview server)**
+
+- **Description**: Turns your markdown files into an HTML preview that you can view in the browser.
+
+- **Features**:
+  
+  - Renders GitHub-style Markdown.
+  - Great for viewing the final output in a browser.
+
+- **Installation**:
+  
+  ```bash
+  # Python-based tool
+  pip install grip
+  ```
+
+Each of these has different strengths, so you can pick the one that suits your needs. If you're working purely in the terminal, **Glow** and **mdcat** are excellent choices. If you need more visual rendering, **grip** can be a good option for browser previewing.

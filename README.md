@@ -1,48 +1,4 @@
-<<<<<<< HEAD
-# Website
-
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-||||||| empty tree
-=======
-# Documentation hub
+ # Documentation hub
 
 **Documentation hub**—your ultimate resource for mastering effective communication and streamlined knowledge management. This repository offers expert insights, practical strategies, and innovative techniques to elevate your documentation skills. Whether you want to create intuitive user guides, automate workflows, refine note-taking, or perfect technical writing, you’ll find the tools and tips you need here.
 
@@ -107,4 +63,3 @@ Contributions are welcome! If you have expertise in these documentation tools or
 ## Happy documenting 🚀
 
 Whether you’re starting your documentation journey or refining your skills, the **Documentation hub** is your one-stop destination for effective writing and knowledge management. Join as we build a solid foundation for success and unlock full potential in clear, effective communication.
->>>>>>> 39fd64c3b3a95a418a6d5b179f64d8b975e7eb29
