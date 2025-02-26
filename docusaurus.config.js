@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Documentation Hub',
-  tagline: 'Master the Art of Document Writing',
+  tagline: 'Master The Art Of Document Writing',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
