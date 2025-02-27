@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 8
 ---
 
 # Technical Writing
@@ -70,42 +70,7 @@ Editing is key to effective technical writing. Take the time to:
 
 ### Elevate Your Writing with Powerful Tools
 
-Boost the quality and consistency of your writing by incorporating a range of editing and style tools. Here are some indispensable resources to help you refine your prose:
-
----
-
-**[Grammarly](https://www.grammarly.com/)**
-An AI-driven writing assistant that checks grammar, punctuation, and style in real time, ensuring your writing is polished and error-free.
-
----
-
-**[ProWritingAid](https://prowritingaid.com/)**
-A comprehensive writing assistant that analyzes your text for grammar, style, and readability, providing in-depth reports to help you improve your writing.
-
----
-
-**[Ginger Software](https://www.gingersoftware.com/)**
-A versatile tool that not only checks grammar and spelling but also offers sentence rephrasing and translation features to enhance clarity and precision.
-
----
-
-**[Writer.com](https://writer.com/)**
-Focuses on maintaining a consistent voice and style across your content, making it an excellent choice for teams striving for unified communication.
-
----
-
-**[Zoho Writer](https://www.zoho.com/writer)**
-An online word processor featuring integrated grammar checking and collaborative tools, perfect for real-time editing and teamwork.
-
----
-
-**[Microsoft Editor](https://www.microsoft.com/en-us/microsoft-365/microsoft-editor)**
-A free browser extension that offers comprehensive spelling and grammar checks along with style suggestions to streamline your writing process.
-
----
-
-**[Hemingway Editor](http://www.hemingwayapp.com/)**
-Provides readability analysis and actionable suggestions to simplify your writing, ensuring your content is clear, concise, and engaging.
+Boost the quality and consistency of your writing by incorporating a range of editing and style tools.  
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 1
 ---
 
 # Markdown (`.md`) vs. MDX (`.mdx`)
@@ -48,14 +48,16 @@ Markdown supports a wide range of formatting features, including:
 
 **Example: Code Block in Markdown**
 
-````markdown
+```markdown
 ```javascript
 const greeting = "Hello, Markdown!";
 console.log(greeting);
 ```
-````
 
-````
+```
+
+```
+
 🔹 *Perfect for including code snippets in technical documentation.*
 
 #### **3. Widely Supported Across Platforms**
@@ -97,7 +99,7 @@ Click the button below:
 export function MyButton({ children }) {
   return <button style={{ background: "blue", color: "white" }}>{children}</button>;
 }
-````
+```
 
 🔹 _This renders as a fully functional button inside an `.mdx` document!_
 
@@ -138,13 +140,13 @@ export default function Counter() {
 
 ### **.md vs .mdx A Quick Comparison**
 
-| Feature               | `.md` (Markdown)       | `.mdx` (MDX)                  |
-| --------------------- | ---------------------- | ----------------------------- |
-| **Syntax**            | Standard Markdown      | Markdown + JSX                |
-| **Component Support** | ❌ No React components | ✅ Supports React components  |
-| **Interactivity**     | ❌ Static content      | ✅ Interactive UI elements    |
-| **Best For**          | Docs, READMEs, Blogs   | Interactive Docs, UI Previews |
-| **Frameworks**        | Jekyll, Docusaurus     | Next.js, Gatsby, Storybook    |
+| Feature               | `.md` (Markdown)      | `.mdx` (MDX)                  |
+| --------------------- | --------------------- | ----------------------------- |
+| **Syntax**            | Standard Markdown     | Markdown + JSX                |
+| **Component Support** | ❌ No React components | ✅ Supports React components   |
+| **Interactivity**     | ❌ Static content      | ✅ Interactive UI elements     |
+| **Best For**          | Docs, READMEs, Blogs  | Interactive Docs, UI Previews |
+| **Frameworks**        | Jekyll, Docusaurus    | Next.js, Gatsby, Storybook    |
 
 ---
 

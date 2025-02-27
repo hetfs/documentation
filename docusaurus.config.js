@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Documentation',
+  title: 'Documentation Hub',
   tagline: 'Master the Art of Document Writing',
   favicon: 'img/favicon.ico',
 

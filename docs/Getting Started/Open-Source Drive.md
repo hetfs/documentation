@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Open-Source Alternatives to Google Drive
+# Open-Source Drive
 
 Choosing the right **open-source alternative to Google Drive** depends on your **privacy needs, ease of use, self-hosting capabilities, and cross-platform support**. Below are some of the top options, each with unique features tailored to different use cases.
 
@@ -142,14 +142,14 @@ Great for **personal use or small teams** who want a **Google Drive-like interfa
 
 ## **🆚 Comparison Table**
 
-| Feature                   | Nextcloud   | ownCloud    | Seafile  | Syncthing | Pydio Cells | FileRun |
-| ------------------------- | ----------- | ----------- | -------- | --------- | ----------- | ------- |
-| **File Sync**             | ✅          | ✅          | ✅       | ✅        | ✅          | ✅      |
-| **End-to-End Encryption** | ✅ (Add-on) | ✅ (Add-on) | ✅       | ✅        | ✅          | ✅      |
-| **Collaboration Tools**   | ✅          | ✅          | ✅       | ❌        | ✅          | ✅      |
-| **Self-Hosting**          | ✅          | ✅          | ✅       | ✅        | ✅          | ✅      |
-| **Mobile Apps**           | ✅          | ✅          | ✅       | ✅        | ✅          | ✅      |
-| **Ease of Use**           | Moderate    | Easy        | Moderate | Easy      | Moderate    | Easy    |
+| Feature                   | Nextcloud  | ownCloud   | Seafile  | Syncthing | Pydio Cells | FileRun |
+| ------------------------- | ---------- | ---------- | -------- | --------- | ----------- | ------- |
+| **File Sync**             | ✅          | ✅          | ✅        | ✅         | ✅           | ✅       |
+| **End-to-End Encryption** | ✅ (Add-on) | ✅ (Add-on) | ✅        | ✅         | ✅           | ✅       |
+| **Collaboration Tools**   | ✅          | ✅          | ✅        | ❌         | ✅           | ✅       |
+| **Self-Hosting**          | ✅          | ✅          | ✅        | ✅         | ✅           | ✅       |
+| **Mobile Apps**           | ✅          | ✅          | ✅        | ✅         | ✅           | ✅       |
+| **Ease of Use**           | Moderate   | Easy       | Moderate | Easy      | Moderate    | Easy    |
 
 ---
 
@@ -161,7 +161,3 @@ Great for **personal use or small teams** who want a **Google Drive-like interfa
 - **🔗 Decentralized, Privacy-Focused** → **Syncthing**
 - **🏢 Best for Business Collaboration** → **Pydio Cells**
 - **🎨 Google Drive-Like Experience** → **FileRun**
-
----
-
-🔹 Need help setting up any of these? Let me know, and I’ll guide you through it! 🚀

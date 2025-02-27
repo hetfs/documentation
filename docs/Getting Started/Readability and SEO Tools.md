@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Best Readability and SEO Tools
+# Readability and SEO Tools
 
 Discover a curated list of open-source tools designed to boost your website's visibility and enhance the readability of your content. These tools offer powerful features from comprehensive analytics to on-the-fly **SEO** insights that can help you optimize your online presence.
 
