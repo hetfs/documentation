@@ -1,8 +1,8 @@
 {
-  "label": "vale Linter",
+  "label": "Vale Linting",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Get started with Vale."
+    "description": "Real-time Linting (Automated Error Detection)."
   }
 }
